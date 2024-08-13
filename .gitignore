@@ -1,0 +1,36 @@
+# Dependências do Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Diretórios de build
+dist/
+build/
+
+# Arquivos de ambiente
+.env
+
+# Diretórios do Docker
+docker-compose.yml
+Dockerfile
+.dockerignore
+
+# Diretórios do VS Code
+.vscode/
+
+# Arquivos do sistema operacional
+.DS_Store
+
+# Arquivos temporários
+tmp/
+temp/
+
+# Cobertura de testes
+coverage/
+
+# Arquivos de lock
+package-lock.json
+yarn.lock
